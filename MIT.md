@@ -69,13 +69,13 @@
 <script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/diffs-a3d5270e51d6.js"></script>
   
 
-  <title>math-magicians/README.md at master · mperezbazan/math-magicians</title>
+  <title>math-magicians/MIT.md at master · mperezbazan/math-magicians</title>
 
 
 
     
 
-  <meta name="request-id" content="8E68:7514:CF9D3:F0253:6384E535" data-turbo-transient="true" /><meta name="html-safe-nonce" content="90c3116a741038f1c32057e2357abfd4c60d57afb38cb596b8fc20c7bfd99767" data-turbo-transient="true" /><meta name="visitor-payload" content="eyJyZWZlcnJlciI6Imh0dHBzOi8vZ2l0aHViLmNvbS9tcGVyZXpiYXphbi9tYXRoLW1hZ2ljaWFucyIsInJlcXVlc3RfaWQiOiI4RTY4Ojc1MTQ6Q0Y5RDM6RjAyNTM6NjM4NEU1MzUiLCJ2aXNpdG9yX2lkIjoiODIxNDkzMDU0OTM5OTg3MjA0NSIsInJlZ2lvbl9lZGdlIjoiYnJhemlsc291dGgiLCJyZWdpb25fcmVuZGVyIjoiaWFkIn0=" data-turbo-transient="true" /><meta name="visitor-hmac" content="4c256a8d37610d8d93c97d3b8392502f34501c80339003af71acc8dc127e34d3" data-turbo-transient="true" />
+  <meta name="request-id" content="8E68:7514:CF4DD:EFC70:6384E51A" data-turbo-transient="true" /><meta name="html-safe-nonce" content="90c3116a741038f1c32057e2357abfd4c60d57afb38cb596b8fc20c7bfd99767" data-turbo-transient="true" /><meta name="visitor-payload" content="eyJyZWZlcnJlciI6Imh0dHBzOi8vZ2l0aHViLmNvbS9tcGVyZXpiYXphbi9tYXRoLW1hZ2ljaWFucyIsInJlcXVlc3RfaWQiOiI4RTY4Ojc1MTQ6Q0Y0REQ6RUZDNzA6NjM4NEU1MUEiLCJ2aXNpdG9yX2lkIjoiODIxNDkzMDU0OTM5OTg3MjA0NSIsInJlZ2lvbl9lZGdlIjoiYnJhemlsc291dGgiLCJyZWdpb25fcmVuZGVyIjoiaWFkIn0=" data-turbo-transient="true" /><meta name="visitor-hmac" content="850635707626ae9e7ec257a42894220e92e3da3178092f8566dccf248b280581" data-turbo-transient="true" />
 
 
     <meta name="hovercard-subject-tag" content="repository:571651712" data-turbo-transient>
@@ -114,11 +114,11 @@
     <link rel="fluid-icon" href="https://github.com/fluidicon.png" title="GitHub">
     <meta property="fb:app_id" content="1401488693436528">
     <meta name="apple-itunes-app" content="app-id=1477376905" />
-      <meta name="twitter:image:src" content="https://opengraph.githubassets.com/9be9ddf681484ca62c154f70db34a5ddde0fd4e5e13f0f77658b92fd660e75ac/mperezbazan/math-magicians" /><meta name="twitter:site" content="@github" /><meta name="twitter:card" content="summary_large_image" /><meta name="twitter:title" content="math-magicians/README.md at master · mperezbazan/math-magicians" /><meta name="twitter:description" content="Contribute to mperezbazan/math-magicians development by creating an account on GitHub." />
-      <meta property="og:image" content="https://opengraph.githubassets.com/9be9ddf681484ca62c154f70db34a5ddde0fd4e5e13f0f77658b92fd660e75ac/mperezbazan/math-magicians" /><meta property="og:image:alt" content="Contribute to mperezbazan/math-magicians development by creating an account on GitHub." /><meta property="og:image:width" content="1200" /><meta property="og:image:height" content="600" /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="math-magicians/README.md at master · mperezbazan/math-magicians" /><meta property="og:url" content="https://github.com/mperezbazan/math-magicians" /><meta property="og:description" content="Contribute to mperezbazan/math-magicians development by creating an account on GitHub." />
+      <meta name="twitter:image:src" content="https://opengraph.githubassets.com/9be9ddf681484ca62c154f70db34a5ddde0fd4e5e13f0f77658b92fd660e75ac/mperezbazan/math-magicians" /><meta name="twitter:site" content="@github" /><meta name="twitter:card" content="summary_large_image" /><meta name="twitter:title" content="math-magicians/MIT.md at master · mperezbazan/math-magicians" /><meta name="twitter:description" content="Contribute to mperezbazan/math-magicians development by creating an account on GitHub." />
+      <meta property="og:image" content="https://opengraph.githubassets.com/9be9ddf681484ca62c154f70db34a5ddde0fd4e5e13f0f77658b92fd660e75ac/mperezbazan/math-magicians" /><meta property="og:image:alt" content="Contribute to mperezbazan/math-magicians development by creating an account on GitHub." /><meta property="og:image:width" content="1200" /><meta property="og:image:height" content="600" /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="math-magicians/MIT.md at master · mperezbazan/math-magicians" /><meta property="og:url" content="https://github.com/mperezbazan/math-magicians" /><meta property="og:description" content="Contribute to mperezbazan/math-magicians development by creating an account on GitHub." />
       
     <link rel="assets" href="https://github.githubassets.com/">
-      <link rel="shared-web-socket" href="wss://alive.github.com/_sockets/u/103154117/ws?session=eyJ2IjoiVjMiLCJ1IjoxMDMxNTQxMTcsInMiOjk2NjE0MDgwMSwiYyI6MjQzOTk2MDMxNywidCI6MTY2OTY1MzgxNn0=--18a51993841fc2b7b6368cfa2e5c7e21ae0087074e4e066e9420f1a8b8f6f39c" data-refresh-url="/_alive" data-session-id="f99026e0dfc3bff0d595100f3d9d3607f93a6af743263138447ffa8d7f52a953">
+      <link rel="shared-web-socket" href="wss://alive.github.com/_sockets/u/103154117/ws?session=eyJ2IjoiVjMiLCJ1IjoxMDMxNTQxMTcsInMiOjk2NjE0MDgwMSwiYyI6MTQzMTQzMzY4NSwidCI6MTY2OTY1Mzc5Mn0=--347f7f6182ec6d72f339bad6a98b9f92abf7e323458adc1c226cb8d08c5c92ed" data-refresh-url="/_alive" data-session-id="f99026e0dfc3bff0d595100f3d9d3607f93a6af743263138447ffa8d7f52a953">
       <link rel="shared-web-socket-src" href="/assets-cdn/worker/socket-worker-b87581f5816c.js">
 
 
@@ -148,7 +148,7 @@
 
 
 
-    <link rel="canonical" href="https://github.com/mperezbazan/math-magicians/blob/master/README.md" data-turbo-transient>
+    <link rel="canonical" href="https://github.com/mperezbazan/math-magicians/blob/master/MIT.md" data-turbo-transient>
   <meta name="turbo-body-classes" content="logged-in env-production page-responsive page-blob">
 
 
@@ -240,7 +240,7 @@
           spellcheck="false"
           autocomplete="off"
         >
-        <input type="hidden" value="ItzEtrHREJ2tw_3nS2QtSVpkjqGoHYLYmYjJtmvRLep-nNxtP9U26zK5BuJwy2Xjju3W9yGAWUu5q49UGHx2rA" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" />
+        <input type="hidden" value="MrUdH8V8ldhDKH4sgT8_q92dS4lK5-Abo147OGkdT_du9QXES3izrtxShSm6kHcBCRQT38N6O4iDfX3aGrAUsQ" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" />
         <input type="hidden" class="js-site-search-type-field" name="type" >
             <svg xmlns="http://www.w3.org/2000/svg" width="22" height="20" aria-hidden="true" class="mr-1 header-search-key-slash"><path fill="none" stroke="#979A9C" opacity=".4" d="M3.5.5h12c1.7 0 3 1.3 3 3v13c0 1.7-1.3 3-3 3h-12c-1.7 0-3-1.3-3-3v-13c0-1.7 1.3-3 3-3z"></path><path fill="#979A9C" d="M11.8 6L8 15.1h-.9L10.8 6h1z"></path></svg>
 
@@ -439,7 +439,7 @@
 
   <a class="js-selected-navigation-item Header-link mt-md-n3 mb-md-n3 py-2 py-md-3 mr-0 mr-md-3 border-top border-md-top-0 border-white-fade" data-ga-click="Header, click, Nav menu - item:explore" data-turbo="false" data-selected-links="/explore /trending /trending/developers /integrations /integrations/feature/code /integrations/feature/collaborate /integrations/feature/ship showcases showcases_search showcases_landing /explore" href="/explore">Explore</a>
 
-      <a class="js-selected-navigation-item Header-link d-block d-md-none py-2 py-md-3 border-top border-md-top-0 border-white-fade" data-ga-click="Header, click, Nav menu - item:Sponsors" data-hydro-click="{&quot;event_type&quot;:&quot;sponsors.button_click&quot;,&quot;payload&quot;:{&quot;button&quot;:&quot;HEADER_SPONSORS_DASHBOARD&quot;,&quot;sponsorable_login&quot;:&quot;mperezbazan&quot;,&quot;originating_url&quot;:&quot;https://github.com/mperezbazan/math-magicians/blob/master/README.md&quot;,&quot;user_id&quot;:103154117}}" data-hydro-click-hmac="a256181cc4231115b6e35dde390fd009b292af86d6d1bf46109227c0f93de166" data-turbo="false" data-selected-links=" /sponsors/accounts" href="/sponsors/accounts">Sponsors</a>
+      <a class="js-selected-navigation-item Header-link d-block d-md-none py-2 py-md-3 border-top border-md-top-0 border-white-fade" data-ga-click="Header, click, Nav menu - item:Sponsors" data-hydro-click="{&quot;event_type&quot;:&quot;sponsors.button_click&quot;,&quot;payload&quot;:{&quot;button&quot;:&quot;HEADER_SPONSORS_DASHBOARD&quot;,&quot;sponsorable_login&quot;:&quot;mperezbazan&quot;,&quot;originating_url&quot;:&quot;https://github.com/mperezbazan/math-magicians/blob/master/MIT.md&quot;,&quot;user_id&quot;:103154117}}" data-hydro-click-hmac="8c5cc00ba45d2c8366d19731d00a2b6a160fa1b3e090f65c4df0db6c75f14241" data-turbo="false" data-selected-links=" /sponsors/accounts" href="/sponsors/accounts">Sponsors</a>
 
     <a class="Header-link d-block d-md-none mr-0 mr-md-3 py-2 py-md-3 border-top border-md-top-0 border-white-fade" data-turbo="false" href="/settings/profile">Settings</a>
 
@@ -447,7 +447,7 @@
       <img class="avatar avatar-user" loading="lazy" decoding="async" src="https://avatars.githubusercontent.com/u/103154117?s=40&amp;v=4" width="20" height="20" alt="@mperezbazan" />
       mperezbazan
 </a>
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-turbo="false" action="/logout" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="Tyb05REEwrbRb0gcuiQxcZ_xqgxQO0y0wC6JyKYRR7fvGjfLfPHARZqC3nscnL3YcScOsdaaLURFJBYGrH3rZQ" />
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-turbo="false" action="/logout" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="-UJdkvNllWZucx7MtZIVqyQqvkqi88DMwGXG8oCb3l5Zfp68npCXlSWeiKsTKpkCyvwa9yRSoTxFb1k8ivdyjA" />
       <button
         type="submit"
         class="Header-link mr-0 mr-md-3 py-2 py-md-3 border-top border-md-top-0 border-white-fade d-md-none btn-link d-block width-full text-left"
@@ -482,7 +482,7 @@
     <div class="Header-item mr-0 mr-md-3 flex-order-1 flex-md-order-none">
         
 
-<notification-indicator data-channel="eyJjIjoibm90aWZpY2F0aW9uLWNoYW5nZWQ6MTAzMTU0MTE3IiwidCI6MTY2OTY1MzgxNn0=--e127afc1fd260fcaa9f6f4b2a94e20e0d9d28b25aaf4671b4940884cae6687ef" data-indicator-mode="none" data-tooltip-global="You have unread notifications" data-tooltip-unavailable="Notifications are unavailable at the moment." data-tooltip-none="You have no unread notifications" data-view-component="true" class="js-socket-channel">
+<notification-indicator data-channel="eyJjIjoibm90aWZpY2F0aW9uLWNoYW5nZWQ6MTAzMTU0MTE3IiwidCI6MTY2OTY1Mzc5Mn0=--64c4e4b7afa1a59530a2848ca83597e8c28855f625ceb9d9bfacde8d91146e22" data-indicator-mode="none" data-tooltip-global="You have unread notifications" data-tooltip-unavailable="Notifications are unavailable at the moment." data-tooltip-none="You have no unread notifications" data-view-component="true" class="js-socket-channel">
   <a id="AppHeader-notifications-button" href="/notifications"
     class="Header-link notification-indicator position-relative tooltipped tooltipped-sw"
 
@@ -639,7 +639,7 @@
   <details-dialog class="command-palette-details-dialog d-flex flex-column flex-justify-center height-fit" aria-label="command palette">
     <command-palette
       class="command-palette color-bg-default rounded-3 border color-shadow-small"
-      return-to=/mperezbazan/math-magicians/blob/master/README.md
+      return-to=/mperezbazan/math-magicians/blob/master/MIT.md
       user-id="103154117"
       activation-hotkey="Mod+k,Mod+Alt+k"
       command-mode-hotkey="Mod+Shift+k"
@@ -1597,7 +1597,7 @@
 
       <li>
   <div class="float-left" data-test-selector="pin-repo-button">
-    <form data-turbo="false" action="/mperezbazan/math-magicians/profile_pin" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="Bv2JAK7bnx7IhxOQKFhWV0GqJ3qyABjXkTh3RtWG1kj1FY99odOQbfUd_Pag7H2uNahc-UUbdw3e379BbM0z3Q" autocomplete="off" />
+    <form data-turbo="false" action="/mperezbazan/math-magicians/profile_pin" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="VjNdOUN3BtLI8RLoPXGfe4vV503_7Y9_re6pUmLjTyql21tETH8JofVr_Y61xbSC_9eczgj24KXiCWFV26iqvw" autocomplete="off" />
         <button title="Pin this repository to your profile" type="submit" data-view-component="true" class="btn-sm btn">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-pin mr-2">
     <path fill-rule="evenodd" d="M4.456.734a1.75 1.75 0 012.826.504l.613 1.327a3.081 3.081 0 002.084 1.707l2.454.584c1.332.317 1.8 1.972.832 2.94L11.06 10l3.72 3.72a.75.75 0 11-1.061 1.06L10 11.06l-2.204 2.205c-.968.968-2.623.5-2.94-.832l-.584-2.454a3.081 3.081 0 00-1.707-2.084l-1.327-.613a1.75 1.75 0 01-.504-2.826L4.456.734zM5.92 1.866a.25.25 0 00-.404-.072L1.794 5.516a.25.25 0 00.072.404l1.328.613A4.582 4.582 0 015.73 9.63l.584 2.454a.25.25 0 00.42.12l5.47-5.47a.25.25 0 00-.12-.42L9.63 5.73a4.581 4.581 0 01-3.098-2.537L5.92 1.866z"></path>
 </svg>Pin
@@ -1616,7 +1616,7 @@
         data-action="toggle:notifications-list-subscription-form#detailsToggled"
       >
 
-        <summary data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;WATCH_BUTTON&quot;,&quot;repository_id&quot;:571651712,&quot;originating_url&quot;:&quot;https://github.com/mperezbazan/math-magicians/blob/master/README.md&quot;,&quot;user_id&quot;:103154117}}" data-hydro-click-hmac="1f864811165398411fe09f97436a268b6840ea2344cabc1cbfba9de41f7d3ba6" data-ga-click="Repository, click Watch settings, action:blob#show" aria-label="Notification settings" data-view-component="true" class="btn-sm btn">    <span data-menu-button>
+        <summary data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;WATCH_BUTTON&quot;,&quot;repository_id&quot;:571651712,&quot;originating_url&quot;:&quot;https://github.com/mperezbazan/math-magicians/blob/master/MIT.md&quot;,&quot;user_id&quot;:103154117}}" data-hydro-click-hmac="45cb49ea7c15e3ee0db219daeda66bf7fa7ebe10504c35684e29a526cdf01c25" data-ga-click="Repository, click Watch settings, action:blob#show" aria-label="Notification settings" data-view-component="true" class="btn-sm btn">    <span data-menu-button>
             <span
               
               
@@ -1668,7 +1668,7 @@
             </header>
 
             <div class="SelectMenu-list">
-              <form data-target="notifications-list-subscription-form.form" data-action="submit:notifications-list-subscription-form#submitForm" data-turbo="false" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="wV7L7xrDk_oLRN2Hr1zUfwmQIZ-LQvqpiu3k4xXhi4nAj6qrhZIS2SzDDVlphVqqACnZsTjdvkdLfsmlSurB8g" autocomplete="off" />
+              <form data-target="notifications-list-subscription-form.form" data-action="submit:notifications-list-subscription-form#submitForm" data-turbo="false" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="H-rMYh7o3YjbEefmHbE31eLRnQdOSR6nnAFVYr_JCcQeO60mgblcq_yWNzjbaLkA62hlKf3WWkldkngk4MJDvw" autocomplete="off" />
 
                 <input type="hidden" name="repository_id" value="571651712">
 
@@ -1796,7 +1796,7 @@
           hidden
         >
           <div class="SelectMenu-modal notifications-component-dialog-modal overflow-visible">
-            <form data-target="notifications-list-subscription-form.customform" data-action="submit:notifications-list-subscription-form#submitCustomForm" data-turbo="false" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="enwIRuCix7HxTiZ4t7BI-pc3ybTpf99a1T9zC1803Zx7rWkCf_NGktbJ9qZxacYvno4xmlrgm7QUrF5NAD-X5w" autocomplete="off" />
+            <form data-target="notifications-list-subscription-form.customform" data-action="submit:notifications-list-subscription-form#submitCustomForm" data-turbo="false" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="TZbSQuszTA9_KEwIoiNVJcEvrP2OYR2dMBu36H4gmbZMR7MGdGLNLFivnNZk-tvwyJZU0z3-WXPxiJquISvTzQ" autocomplete="off" />
 
               <input type="hidden" name="repository_id" value="571651712">
 
@@ -1947,7 +1947,7 @@
 
   <li>
         <div data-view-component="true" class="BtnGroup">
-        <a icon="repo-forked" href="/mperezbazan/math-magicians/fork" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FORK_BUTTON&quot;,&quot;repository_id&quot;:571651712,&quot;originating_url&quot;:&quot;https://github.com/mperezbazan/math-magicians/blob/master/README.md&quot;,&quot;user_id&quot;:103154117}}" data-hydro-click-hmac="8722453dbfd742eb5bd9fcfb4a0c87c96ee4785bd1ab9d38d8a1878d9cfa0adb" data-ga-click="Repository, show fork modal, action:blob#show; text:Fork" aria-label="Fork your own copy of mperezbazan/math-magicians" data-view-component="true" class="btn-sm btn BtnGroup-item">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-repo-forked mr-2">
+        <a icon="repo-forked" href="/mperezbazan/math-magicians/fork" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FORK_BUTTON&quot;,&quot;repository_id&quot;:571651712,&quot;originating_url&quot;:&quot;https://github.com/mperezbazan/math-magicians/blob/master/MIT.md&quot;,&quot;user_id&quot;:103154117}}" data-hydro-click-hmac="85f422777aedea52f9a943451f4026d995dfec21a8051219126d5336439e6863" data-ga-click="Repository, show fork modal, action:blob#show; text:Fork" aria-label="Fork your own copy of mperezbazan/math-magicians" data-view-component="true" class="btn-sm btn BtnGroup-item">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-repo-forked mr-2">
     <path fill-rule="evenodd" d="M5 3.25a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm0 2.122a2.25 2.25 0 10-1.5 0v.878A2.25 2.25 0 005.75 8.5h1.5v2.128a2.251 2.251 0 101.5 0V8.5h1.5a2.25 2.25 0 002.25-2.25v-.878a2.25 2.25 0 10-1.5 0v.878a.75.75 0 01-.75.75h-4.5A.75.75 0 015 6.25v-.878zm3.75 7.378a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm3-8.75a.75.75 0 100-1.5.75.75 0 000 1.5z"></path>
 </svg>Fork
           <span id="repo-network-counter" data-pjax-replace="true" data-turbo-replace="true" title="0" data-view-component="true" class="Counter">0</span>
@@ -1965,13 +1965,13 @@
       
 >
     <div class="SelectMenu-modal">
-        <button class="SelectMenu-closeButton position-absolute right-0 m-2" type="button" aria-label="Close menu" data-toggle-for="details-6643f3">
+        <button class="SelectMenu-closeButton position-absolute right-0 m-2" type="button" aria-label="Close menu" data-toggle-for="details-330264">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x">
     <path fill-rule="evenodd" d="M3.72 3.72a.75.75 0 011.06 0L8 6.94l3.22-3.22a.75.75 0 111.06 1.06L9.06 8l3.22 3.22a.75.75 0 11-1.06 1.06L8 9.06l-3.22 3.22a.75.75 0 01-1.06-1.06L6.94 8 3.72 4.78a.75.75 0 010-1.06z"></path>
 </svg>
         </button>
       <div
-        id="filter-menu-6643f3"
+        id="filter-menu-330264"
         class="d-flex flex-column flex-1 overflow-hidden"
 >
         <div
@@ -2013,10 +2013,10 @@
 
   <div data-view-component="true" class="js-toggler-container js-social-container starring-container d-flex">
     <div data-view-component="true" class="starred BtnGroup flex-1">
-      <form class="js-social-form BtnGroup-parent flex-auto js-deferred-toggler-target" data-turbo="false" action="/mperezbazan/math-magicians/unstar" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="yS_UpT_FKCj5ct-7_rKVuFj8Hi2cnwlWuE8ACPzMkeZ0UmtvHS-llNavBgSgMCGBx4UDJbXZxnx3ecnO4Nqaow" autocomplete="off" />
-          <input type="hidden" value="1sY3D2lTyIvRPe9NknlbRSdC792mqUgsIan3vnmSuL1ru4jFS7lFN_7gNvLM--98uDvy1Y_vhwbunz54ZYSz-A" data-csrf="true" class="js-confirm-csrf-token" />
+      <form class="js-social-form BtnGroup-parent flex-auto js-deferred-toggler-target" data-turbo="false" action="/mperezbazan/math-magicians/unstar" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="L6Vj1AcGoxYQqP0GwhQ4YOmLt14L7j-FYqRFlwF8_YKS2NweJewuqj91JLmcloxZdvKqViKo8K-tkoxRHWr2xw" autocomplete="off" />
+          <input type="hidden" value="mc4Jbv2sIRwJY2JkyY-GcwuUgICDYeX46o1j6ZhRefAks7ak30asoCa-u9uXDTJKlO2diKonKtIlu6ovhEdytQ" data-csrf="true" class="js-confirm-csrf-token" />
         <input type="hidden" name="context" value="repository">
-          <button data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;UNSTAR_BUTTON&quot;,&quot;repository_id&quot;:571651712,&quot;originating_url&quot;:&quot;https://github.com/mperezbazan/math-magicians/blob/master/README.md&quot;,&quot;user_id&quot;:103154117}}" data-hydro-click-hmac="5782c51dadf2894218fa1283d29cd19b9d778aadd50577232d998a106961bda7" data-ga-click="Repository, click unstar button, action:blob#show; text:Unstar" aria-label="Unstar this repository (0)" type="submit" data-view-component="true" class="rounded-left-2 btn-sm btn BtnGroup-item">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star-fill starred-button-icon d-inline-block mr-2">
+          <button data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;UNSTAR_BUTTON&quot;,&quot;repository_id&quot;:571651712,&quot;originating_url&quot;:&quot;https://github.com/mperezbazan/math-magicians/blob/master/MIT.md&quot;,&quot;user_id&quot;:103154117}}" data-hydro-click-hmac="62b8122e095aa3e84f2c2eb130f5059bff3d66dab1c3b3f0ef6653ce629c7e5d" data-ga-click="Repository, click unstar button, action:blob#show; text:Unstar" aria-label="Unstar this repository (0)" type="submit" data-view-component="true" class="rounded-left-2 btn-sm btn BtnGroup-item">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star-fill starred-button-icon d-inline-block mr-2">
     <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25z"></path>
 </svg><span data-view-component="true" class="d-inline">
             Starred
@@ -2034,13 +2034,13 @@
       
 >
     <div class="SelectMenu-modal">
-        <button class="SelectMenu-closeButton position-absolute right-0 m-2" type="button" aria-label="Close menu" data-toggle-for="details-b3f17e">
+        <button class="SelectMenu-closeButton position-absolute right-0 m-2" type="button" aria-label="Close menu" data-toggle-for="details-594855">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x">
     <path fill-rule="evenodd" d="M3.72 3.72a.75.75 0 011.06 0L8 6.94l3.22-3.22a.75.75 0 111.06 1.06L9.06 8l3.22 3.22a.75.75 0 11-1.06 1.06L8 9.06l-3.22 3.22a.75.75 0 01-1.06-1.06L6.94 8 3.72 4.78a.75.75 0 010-1.06z"></path>
 </svg>
         </button>
       <div
-        id="filter-menu-b3f17e"
+        id="filter-menu-594855"
         class="d-flex flex-column flex-1 overflow-hidden"
 >
         <div
@@ -2061,9 +2061,9 @@
 </details>
 </div>
     <div data-view-component="true" class="unstarred BtnGroup flex-1">
-      <form class="js-social-form BtnGroup-parent flex-auto" data-turbo="false" action="/mperezbazan/math-magicians/star" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="9o8CoB0wPiiH2ikkL96OSyg0pqt3YavmbzUuWDRmufyqoxXqvOXrZ0BwsmCcsyIRy8yCZpwsShwfmzZWdyPlbA" autocomplete="off" />
+      <form class="js-social-form BtnGroup-parent flex-auto" data-turbo="false" action="/mperezbazan/math-magicians/star" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="Q_f4OzpQ_FVkEXwXu32L1Fj1mZxuTvH_v7WvzCbHF5wf2-9xm4UpGqO751MIECeOuw29UYUDEAXPG7fCZYJLDA" autocomplete="off" />
         <input type="hidden" name="context" value="repository">
-          <button data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;STAR_BUTTON&quot;,&quot;repository_id&quot;:571651712,&quot;originating_url&quot;:&quot;https://github.com/mperezbazan/math-magicians/blob/master/README.md&quot;,&quot;user_id&quot;:103154117}}" data-hydro-click-hmac="5b905a8e5a7c29416201e0fdfc14a2341fafe9e9e8fd8bc45987f78496269678" data-ga-click="Repository, click star button, action:blob#show; text:Star" aria-label="Star this repository (0)" type="submit" data-view-component="true" class="js-toggler-target rounded-left-2 btn-sm btn BtnGroup-item">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star d-inline-block mr-2">
+          <button data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;STAR_BUTTON&quot;,&quot;repository_id&quot;:571651712,&quot;originating_url&quot;:&quot;https://github.com/mperezbazan/math-magicians/blob/master/MIT.md&quot;,&quot;user_id&quot;:103154117}}" data-hydro-click-hmac="5ca01dbe11dde365b5d4ee6b9344894fef451f31732e49bd7b94a352921bb54c" data-ga-click="Repository, click star button, action:blob#show; text:Star" aria-label="Star this repository (0)" type="submit" data-view-component="true" class="js-toggler-target rounded-left-2 btn-sm btn BtnGroup-item">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star d-inline-block mr-2">
     <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"></path>
 </svg><span data-view-component="true" class="d-inline">
             Star
@@ -2081,13 +2081,13 @@
       
 >
     <div class="SelectMenu-modal">
-        <button class="SelectMenu-closeButton position-absolute right-0 m-2" type="button" aria-label="Close menu" data-toggle-for="details-b3f17e">
+        <button class="SelectMenu-closeButton position-absolute right-0 m-2" type="button" aria-label="Close menu" data-toggle-for="details-594855">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x">
     <path fill-rule="evenodd" d="M3.72 3.72a.75.75 0 011.06 0L8 6.94l3.22-3.22a.75.75 0 111.06 1.06L9.06 8l3.22 3.22a.75.75 0 11-1.06 1.06L8 9.06l-3.22 3.22a.75.75 0 01-1.06-1.06L6.94 8 3.72 4.78a.75.75 0 010-1.06z"></path>
 </svg>
         </button>
       <div
-        id="filter-menu-b3f17e"
+        id="filter-menu-594855"
         class="d-flex flex-column flex-1 overflow-hidden"
 >
         <div
@@ -2306,7 +2306,7 @@
 
 
     
-<a class="d-none js-permalink-shortcut" data-hotkey="y" href="/mperezbazan/math-magicians/blob/14a576a899884bcc6893e34d8767cc86f0839ed6/README.md">Permalink</a>
+<a class="d-none js-permalink-shortcut" data-hotkey="y" href="/mperezbazan/math-magicians/blob/14a576a899884bcc6893e34d8767cc86f0839ed6/MIT.md">Permalink</a>
 
 <div class="d-flex flex-items-start flex-shrink-0 pb-3 flex-wrap flex-md-nowrap flex-justify-between flex-md-justify-start">
   
@@ -2314,7 +2314,7 @@
   <details
     class="js-branch-select-menu details-reset details-overlay mr-0 mb-0 "
     id="branch-select-menu"
-    data-hydro-click-payload="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;REFS_SELECTOR_MENU&quot;,&quot;repository_id&quot;:571651712,&quot;originating_url&quot;:&quot;https://github.com/mperezbazan/math-magicians/blob/master/README.md&quot;,&quot;user_id&quot;:103154117}}" data-hydro-click-hmac="9a2cce4904db5865162b6f8851b5b9b1b43b153d9b115f96507a941fcba84a6c">
+    data-hydro-click-payload="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;REFS_SELECTOR_MENU&quot;,&quot;repository_id&quot;:571651712,&quot;originating_url&quot;:&quot;https://github.com/mperezbazan/math-magicians/blob/master/MIT.md&quot;,&quot;user_id&quot;:103154117}}" data-hydro-click-hmac="0367a19adad4455719fa12028bef3e45dddacb9d209d328da0216c7d6eaf4e1d">
     <summary class="btn css-truncate"
             data-hotkey="w"
             title="Switch branches or tags">
@@ -2382,10 +2382,10 @@
     <create-repo-from-selector
       check-tag-name-exists-path="/mperezbazan/math-magicians/branches/check_tag_name_exists"
     >
-      <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-turbo="false" action="/mperezbazan/math-magicians/branches" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="OVA_N81MdtwjlLuKNni-pYZYJ_mpOafolfORZofqButLDhM2dZr0zhJScUg5h8gFpuI0XXR5H8GYXjcJYGrDXg" />
+      <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-turbo="false" action="/mperezbazan/math-magicians/branches" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="jBHTU_SJpfC-ACkdicnXi5nEoOqog2ReCvhQHgMsAwv-T_9STF8n4o_G49-GNqEruX6zTnXD3HcHVfZx5KzGvg" />
         <input data-target="create-repo-from-selector.refName" type="hidden" name="name" value="{{ refName }}">
         <input type="hidden" name="branch"  value="master">
-        <input type="hidden" name="path_binary" value="UkVBRE1FLm1k">
+        <input type="hidden" name="path_binary" value="TUlULm1k">
 
         <button
           class="SelectMenu-item wb-break-word"
@@ -2393,14 +2393,14 @@
           role="menuitem"
           data-index="{{ index }}"
           data-action="click:create-repo-from-selector#createBranch"
-          data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;REFS_SELECTOR_MENU_CREATE_BRANCH&quot;,&quot;repository_id&quot;:571651712,&quot;ref_name&quot;:&quot;{{ refName }}&quot;,&quot;originating_url&quot;:&quot;https://github.com/mperezbazan/math-magicians/blob/master/README.md&quot;,&quot;user_id&quot;:103154117}}" data-hydro-click-hmac="ef288c9f510721d063f0f2a8837f2ebc1daa45ce3d48f77156ce2a35f22b6bb0">
+          data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;REFS_SELECTOR_MENU_CREATE_BRANCH&quot;,&quot;repository_id&quot;:571651712,&quot;ref_name&quot;:&quot;{{ refName }}&quot;,&quot;originating_url&quot;:&quot;https://github.com/mperezbazan/math-magicians/blob/master/MIT.md&quot;,&quot;user_id&quot;:103154117}}" data-hydro-click-hmac="ac6e8e8c70b6e6cd2f4ba7bbd2575b8d5eeb23c4ec73881e56c3020530f08ff4">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-git-branch SelectMenu-icon flex-self-baseline">
     <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"></path>
 </svg>
           <div>
             <span class="text-bold">Create branch: {{ refName }}</span>
             <span class="color-fg-muted">from ‘master’</span>
-            <input type="hidden" value="EsjnkhPV0fCgDn1xfRyo8Ar_twQFFft9BT_7xREjKxdtGmE6B3oUjxio_LF8_0xxny8z0pYVz2sZPs-XC1iqTA" data-csrf="true" data-target="create-repo-from-selector.checkTagNameExistsPathCsrf" />
+            <input type="hidden" value="k3bmR5sJBvV4SZ5rL15kw_laxtv5ZRrq2A8uEF5oz8_spGDvj6bDisDvH6suvYBCbIpCDWplLvzEDhpCRBNOlA" data-csrf="true" data-target="create-repo-from-selector.checkTagNameExistsPathCsrf" />
           </div>
         </button>
 </form>    </create-repo-from-selector>
@@ -2419,7 +2419,7 @@
               
 
 <template data-target="ref-selector.itemTemplate">
-  <a href="https://github.com/mperezbazan/math-magicians/blob/{{ urlEncodedRefName }}/README.md" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}" >
+  <a href="https://github.com/mperezbazan/math-magicians/blob/{{ urlEncodedRefName }}/MIT.md" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}" >
     <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check SelectMenu-icon SelectMenu-icon--check">
     <path fill-rule="evenodd" d="M13.78 4.22a.75.75 0 010 1.06l-7.25 7.25a.75.75 0 01-1.06 0L2.22 9.28a.75.75 0 011.06-1.06L6 10.94l6.72-6.72a.75.75 0 011.06 0z"></path>
 </svg>
@@ -2461,7 +2461,7 @@
               
 
 <template data-target="ref-selector.itemTemplate">
-  <a href="https://github.com/mperezbazan/math-magicians/blob/{{ urlEncodedRefName }}/README.md" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}" >
+  <a href="https://github.com/mperezbazan/math-magicians/blob/{{ urlEncodedRefName }}/MIT.md" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}" >
     <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check SelectMenu-icon SelectMenu-icon--check">
     <path fill-rule="evenodd" d="M13.78 4.22a.75.75 0 010 1.06l-7.25 7.25a.75.75 0 01-1.06 0L2.22 9.28a.75.75 0 011.06-1.06L6 10.94l6.72-6.72a.75.75 0 011.06 0z"></path>
 </svg>
@@ -2522,7 +2522,7 @@
 
 
   <h2 id="blob-path" class="breadcrumb flex-auto flex-self-center min-width-0 text-normal mx-2 width-full width-md-auto flex-order-1 flex-md-order-none mt-3 mt-md-0">
-    <span class="js-repo-root text-bold"><span class="js-path-segment d-inline-block wb-break-all"><a data-turbo-frame="repo-content-turbo-frame" href="/mperezbazan/math-magicians"><span>math-magicians</span></a></span></span><span class="separator">/</span><strong class="final-path">README.md</strong>
+    <span class="js-repo-root text-bold"><span class="js-path-segment d-inline-block wb-break-all"><a data-turbo-frame="repo-content-turbo-frame" href="/mperezbazan/math-magicians"><span>math-magicians</span></a></span></span><span class="separator">/</span><strong class="final-path">MIT.md</strong>
   </h2>
     <a href="/mperezbazan/math-magicians/find/master" data-pjax="" data-hotkey="t" data-view-component="true" class="btn mr-2 d-none d-md-block">    Go to file
 </a>
@@ -2533,7 +2533,7 @@
 </summary>
   <div data-view-component="true">      <ul class="dropdown-menu dropdown-menu-sw">
         <li class="d-block d-md-none">
-          <a class="dropdown-item d-flex flex-items-baseline" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FIND_FILE_BUTTON&quot;,&quot;repository_id&quot;:571651712,&quot;originating_url&quot;:&quot;https://github.com/mperezbazan/math-magicians/blob/master/README.md&quot;,&quot;user_id&quot;:103154117}}" data-hydro-click-hmac="61c927e0485fc3a722434f0885fd7d41715f3cf61cfc8493ba3f61ecd171e0f1" data-ga-click="Repository, find file, location:repo overview" data-hotkey="t" href="/mperezbazan/math-magicians/find/master">
+          <a class="dropdown-item d-flex flex-items-baseline" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FIND_FILE_BUTTON&quot;,&quot;repository_id&quot;:571651712,&quot;originating_url&quot;:&quot;https://github.com/mperezbazan/math-magicians/blob/master/MIT.md&quot;,&quot;user_id&quot;:103154117}}" data-hydro-click-hmac="1c6382558e360dc7f95b24f9da9820c6d240f56b09ff1b945ab7ec25f47e1448" data-ga-click="Repository, find file, location:repo overview" data-hotkey="t" href="/mperezbazan/math-magicians/find/master">
             <span class="flex-auto">Go to file</span>
             <span class="text-small color-fg-muted" aria-hidden="true">T</span>
 </a>        </li>
@@ -2545,13 +2545,13 @@
 </button>        </li>
         <li class="dropdown-divider" role="none"></li>
         <li>
-          <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy path" value="README.md" data-view-component="true" class="dropdown-item cursor-pointer">
+          <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy path" value="MIT.md" data-view-component="true" class="dropdown-item cursor-pointer">
     
             Copy path
 
 </clipboard-copy>        </li>
         <li>
-          <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy permalink" value="https://github.com/mperezbazan/math-magicians/blob/14a576a899884bcc6893e34d8767cc86f0839ed6/README.md" data-view-component="true" class="dropdown-item cursor-pointer">
+          <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy permalink" value="https://github.com/mperezbazan/math-magicians/blob/14a576a899884bcc6893e34d8767cc86f0839ed6/MIT.md" data-view-component="true" class="dropdown-item cursor-pointer">
     
             <span class="d-flex flex-items-baseline">
               <span class="flex-auto">Copy permalink</span>
@@ -2583,7 +2583,7 @@
     <include-fragment src="/mperezbazan/math-magicians/spoofed_commit_check/14a576a899884bcc6893e34d8767cc86f0839ed6" data-test-selector="spoofed-commit-check"></include-fragment>
 
     <div class="Box d-flex flex-column flex-shrink-0 mb-3">
-  <include-fragment src="/mperezbazan/math-magicians/contributors/master/README.md" class="commit-loader">
+  <include-fragment src="/mperezbazan/math-magicians/contributors/master/MIT.md" class="commit-loader">
     <div class="Box-header d-flex flex-items-center">
       <div class="Skeleton avatar avatar-user flex-shrink-0 ml-n1 mr-n1 mt-n1 mb-n1" style="width:24px;height:24px;"></div>
       <div class="Skeleton Skeleton--text col-5 ml-2">&nbsp;</div>
@@ -2617,8 +2617,8 @@
 
       <details
   data-target="readme-toc.trigger"
-  data-menu-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;trigger&quot;,&quot;repository_id&quot;:571651712,&quot;originating_url&quot;:&quot;https://github.com/mperezbazan/math-magicians/blob/master/README.md&quot;,&quot;user_id&quot;:103154117}}"
-  data-menu-hydro-click-hmac="1b272c2afe8afbd60144ed516857dcbf32acef66fc3d86d7942240de835167ba"
+  data-menu-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;trigger&quot;,&quot;repository_id&quot;:571651712,&quot;originating_url&quot;:&quot;https://github.com/mperezbazan/math-magicians/blob/master/MIT.md&quot;,&quot;user_id&quot;:103154117}}"
+  data-menu-hydro-click-hmac="66d195913ed2d6cf783ea47299199693c37c425d5d664e9e233203f69fd2c6e8"
   class="dropdown details-reset details-overlay"
 >
   <summary
@@ -2634,40 +2634,11 @@
   <details-menu class="SelectMenu" role="menu">
     <div class="SelectMenu-modal rounded-3 mt-1" style="max-height:340px;">
 
-        <div class="SelectMenu-filter">
-          <input
-            class="SelectMenu-input form-control js-filterable-field"
-            id="toc-filter-field"
-            type="text"
-            autocomplete="off"
-            spellcheck="false"
-            autofocus
-            placeholder="Filter headings"
-            aria-label="Filter headings">
-        </div>
 
-      <div class="SelectMenu-list SelectMenu-list--borderless p-2" style="overscroll-behavior: contain;" data-filterable-for="toc-filter-field" data-filterable-type="substring">
-          <a role="menuitem" class="filter-item SelectMenu-item ws-normal wb-break-word line-clamp-2 py-1 " style="-webkit-box-orient: vertical; padding-left: 36px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;entry&quot;,&quot;repository_id&quot;:571651712,&quot;originating_url&quot;:&quot;https://github.com/mperezbazan/math-magicians/blob/master/README.md&quot;,&quot;user_id&quot;:103154117}}" data-hydro-click-hmac="f9bb8339a79effcb8a5328c5677bbc1aca603f3436f4b2d2ae7cd7f1365e04f6" href="#microverse-readme-template">Microverse README Template</a>
-          <a role="menuitem" class="filter-item SelectMenu-item ws-normal wb-break-word line-clamp-2 py-1 text-emphasized" style="-webkit-box-orient: vertical; padding-left: 12px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;entry&quot;,&quot;repository_id&quot;:571651712,&quot;originating_url&quot;:&quot;https://github.com/mperezbazan/math-magicians/blob/master/README.md&quot;,&quot;user_id&quot;:103154117}}" data-hydro-click-hmac="f9bb8339a79effcb8a5328c5677bbc1aca603f3436f4b2d2ae7cd7f1365e04f6" href="#-table-of-contents"><g-emoji class="g-emoji" alias="green_book" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4d7.png">📗</g-emoji> Table of Contents</a>
-          <a role="menuitem" class="filter-item SelectMenu-item ws-normal wb-break-word line-clamp-2 py-1 text-emphasized" style="-webkit-box-orient: vertical; padding-left: 12px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;entry&quot;,&quot;repository_id&quot;:571651712,&quot;originating_url&quot;:&quot;https://github.com/mperezbazan/math-magicians/blob/master/README.md&quot;,&quot;user_id&quot;:103154117}}" data-hydro-click-hmac="f9bb8339a79effcb8a5328c5677bbc1aca603f3436f4b2d2ae7cd7f1365e04f6" href="#-your_project_name-"><g-emoji class="g-emoji" alias="book" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4d6.png">📖</g-emoji> [your_project_name] </a>
-          <a role="menuitem" class="filter-item SelectMenu-item ws-normal wb-break-word line-clamp-2 py-1 " style="-webkit-box-orient: vertical; padding-left: 24px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;entry&quot;,&quot;repository_id&quot;:571651712,&quot;originating_url&quot;:&quot;https://github.com/mperezbazan/math-magicians/blob/master/README.md&quot;,&quot;user_id&quot;:103154117}}" data-hydro-click-hmac="f9bb8339a79effcb8a5328c5677bbc1aca603f3436f4b2d2ae7cd7f1365e04f6" href="#-built-with-"><g-emoji class="g-emoji" alias="hammer_and_wrench" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f6e0.png">🛠</g-emoji> Built With </a>
-          <a role="menuitem" class="filter-item SelectMenu-item ws-normal wb-break-word line-clamp-2 py-1 " style="-webkit-box-orient: vertical; padding-left: 36px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;entry&quot;,&quot;repository_id&quot;:571651712,&quot;originating_url&quot;:&quot;https://github.com/mperezbazan/math-magicians/blob/master/README.md&quot;,&quot;user_id&quot;:103154117}}" data-hydro-click-hmac="f9bb8339a79effcb8a5328c5677bbc1aca603f3436f4b2d2ae7cd7f1365e04f6" href="#tech-stack-">Tech Stack </a>
-          <a role="menuitem" class="filter-item SelectMenu-item ws-normal wb-break-word line-clamp-2 py-1 " style="-webkit-box-orient: vertical; padding-left: 36px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;entry&quot;,&quot;repository_id&quot;:571651712,&quot;originating_url&quot;:&quot;https://github.com/mperezbazan/math-magicians/blob/master/README.md&quot;,&quot;user_id&quot;:103154117}}" data-hydro-click-hmac="f9bb8339a79effcb8a5328c5677bbc1aca603f3436f4b2d2ae7cd7f1365e04f6" href="#key-features-">Key Features </a>
-          <a role="menuitem" class="filter-item SelectMenu-item ws-normal wb-break-word line-clamp-2 py-1 " style="-webkit-box-orient: vertical; padding-left: 24px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;entry&quot;,&quot;repository_id&quot;:571651712,&quot;originating_url&quot;:&quot;https://github.com/mperezbazan/math-magicians/blob/master/README.md&quot;,&quot;user_id&quot;:103154117}}" data-hydro-click-hmac="f9bb8339a79effcb8a5328c5677bbc1aca603f3436f4b2d2ae7cd7f1365e04f6" href="#-live-demo-"><g-emoji class="g-emoji" alias="rocket" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f680.png">🚀</g-emoji> Live Demo </a>
-          <a role="menuitem" class="filter-item SelectMenu-item ws-normal wb-break-word line-clamp-2 py-1 " style="-webkit-box-orient: vertical; padding-left: 24px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;entry&quot;,&quot;repository_id&quot;:571651712,&quot;originating_url&quot;:&quot;https://github.com/mperezbazan/math-magicians/blob/master/README.md&quot;,&quot;user_id&quot;:103154117}}" data-hydro-click-hmac="f9bb8339a79effcb8a5328c5677bbc1aca603f3436f4b2d2ae7cd7f1365e04f6" href="#-getting-started-"><g-emoji class="g-emoji" alias="computer" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png">💻</g-emoji> Getting Started </a>
-          <a role="menuitem" class="filter-item SelectMenu-item ws-normal wb-break-word line-clamp-2 py-1 " style="-webkit-box-orient: vertical; padding-left: 36px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;entry&quot;,&quot;repository_id&quot;:571651712,&quot;originating_url&quot;:&quot;https://github.com/mperezbazan/math-magicians/blob/master/README.md&quot;,&quot;user_id&quot;:103154117}}" data-hydro-click-hmac="f9bb8339a79effcb8a5328c5677bbc1aca603f3436f4b2d2ae7cd7f1365e04f6" href="#prerequisites">Prerequisites</a>
-          <a role="menuitem" class="filter-item SelectMenu-item ws-normal wb-break-word line-clamp-2 py-1 " style="-webkit-box-orient: vertical; padding-left: 36px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;entry&quot;,&quot;repository_id&quot;:571651712,&quot;originating_url&quot;:&quot;https://github.com/mperezbazan/math-magicians/blob/master/README.md&quot;,&quot;user_id&quot;:103154117}}" data-hydro-click-hmac="f9bb8339a79effcb8a5328c5677bbc1aca603f3436f4b2d2ae7cd7f1365e04f6" href="#setup">Setup</a>
-          <a role="menuitem" class="filter-item SelectMenu-item ws-normal wb-break-word line-clamp-2 py-1 " style="-webkit-box-orient: vertical; padding-left: 36px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;entry&quot;,&quot;repository_id&quot;:571651712,&quot;originating_url&quot;:&quot;https://github.com/mperezbazan/math-magicians/blob/master/README.md&quot;,&quot;user_id&quot;:103154117}}" data-hydro-click-hmac="f9bb8339a79effcb8a5328c5677bbc1aca603f3436f4b2d2ae7cd7f1365e04f6" href="#install">Install</a>
-          <a role="menuitem" class="filter-item SelectMenu-item ws-normal wb-break-word line-clamp-2 py-1 " style="-webkit-box-orient: vertical; padding-left: 36px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;entry&quot;,&quot;repository_id&quot;:571651712,&quot;originating_url&quot;:&quot;https://github.com/mperezbazan/math-magicians/blob/master/README.md&quot;,&quot;user_id&quot;:103154117}}" data-hydro-click-hmac="f9bb8339a79effcb8a5328c5677bbc1aca603f3436f4b2d2ae7cd7f1365e04f6" href="#usage">Usage</a>
-          <a role="menuitem" class="filter-item SelectMenu-item ws-normal wb-break-word line-clamp-2 py-1 " style="-webkit-box-orient: vertical; padding-left: 36px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;entry&quot;,&quot;repository_id&quot;:571651712,&quot;originating_url&quot;:&quot;https://github.com/mperezbazan/math-magicians/blob/master/README.md&quot;,&quot;user_id&quot;:103154117}}" data-hydro-click-hmac="f9bb8339a79effcb8a5328c5677bbc1aca603f3436f4b2d2ae7cd7f1365e04f6" href="#run-tests">Run tests</a>
-          <a role="menuitem" class="filter-item SelectMenu-item ws-normal wb-break-word line-clamp-2 py-1 " style="-webkit-box-orient: vertical; padding-left: 36px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;entry&quot;,&quot;repository_id&quot;:571651712,&quot;originating_url&quot;:&quot;https://github.com/mperezbazan/math-magicians/blob/master/README.md&quot;,&quot;user_id&quot;:103154117}}" data-hydro-click-hmac="f9bb8339a79effcb8a5328c5677bbc1aca603f3436f4b2d2ae7cd7f1365e04f6" href="#deployment">Deployment</a>
-          <a role="menuitem" class="filter-item SelectMenu-item ws-normal wb-break-word line-clamp-2 py-1 " style="-webkit-box-orient: vertical; padding-left: 24px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;entry&quot;,&quot;repository_id&quot;:571651712,&quot;originating_url&quot;:&quot;https://github.com/mperezbazan/math-magicians/blob/master/README.md&quot;,&quot;user_id&quot;:103154117}}" data-hydro-click-hmac="f9bb8339a79effcb8a5328c5677bbc1aca603f3436f4b2d2ae7cd7f1365e04f6" href="#-authors-"><g-emoji class="g-emoji" alias="busts_in_silhouette" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f465.png">👥</g-emoji> Authors </a>
-          <a role="menuitem" class="filter-item SelectMenu-item ws-normal wb-break-word line-clamp-2 py-1 " style="-webkit-box-orient: vertical; padding-left: 24px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;entry&quot;,&quot;repository_id&quot;:571651712,&quot;originating_url&quot;:&quot;https://github.com/mperezbazan/math-magicians/blob/master/README.md&quot;,&quot;user_id&quot;:103154117}}" data-hydro-click-hmac="f9bb8339a79effcb8a5328c5677bbc1aca603f3436f4b2d2ae7cd7f1365e04f6" href="#-future-features-"><g-emoji class="g-emoji" alias="telescope" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f52d.png">🔭</g-emoji> Future Features </a>
-          <a role="menuitem" class="filter-item SelectMenu-item ws-normal wb-break-word line-clamp-2 py-1 " style="-webkit-box-orient: vertical; padding-left: 24px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;entry&quot;,&quot;repository_id&quot;:571651712,&quot;originating_url&quot;:&quot;https://github.com/mperezbazan/math-magicians/blob/master/README.md&quot;,&quot;user_id&quot;:103154117}}" data-hydro-click-hmac="f9bb8339a79effcb8a5328c5677bbc1aca603f3436f4b2d2ae7cd7f1365e04f6" href="#-contributing-"><g-emoji class="g-emoji" alias="handshake" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f91d.png">🤝</g-emoji> Contributing </a>
-          <a role="menuitem" class="filter-item SelectMenu-item ws-normal wb-break-word line-clamp-2 py-1 " style="-webkit-box-orient: vertical; padding-left: 24px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;entry&quot;,&quot;repository_id&quot;:571651712,&quot;originating_url&quot;:&quot;https://github.com/mperezbazan/math-magicians/blob/master/README.md&quot;,&quot;user_id&quot;:103154117}}" data-hydro-click-hmac="f9bb8339a79effcb8a5328c5677bbc1aca603f3436f4b2d2ae7cd7f1365e04f6" href="#️-show-your-support-"><g-emoji class="g-emoji" alias="star" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2b50.png">⭐️</g-emoji> Show your support </a>
-          <a role="menuitem" class="filter-item SelectMenu-item ws-normal wb-break-word line-clamp-2 py-1 " style="-webkit-box-orient: vertical; padding-left: 24px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;entry&quot;,&quot;repository_id&quot;:571651712,&quot;originating_url&quot;:&quot;https://github.com/mperezbazan/math-magicians/blob/master/README.md&quot;,&quot;user_id&quot;:103154117}}" data-hydro-click-hmac="f9bb8339a79effcb8a5328c5677bbc1aca603f3436f4b2d2ae7cd7f1365e04f6" href="#-acknowledgments-"><g-emoji class="g-emoji" alias="pray" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f64f.png">🙏</g-emoji> Acknowledgments </a>
-          <a role="menuitem" class="filter-item SelectMenu-item ws-normal wb-break-word line-clamp-2 py-1 " style="-webkit-box-orient: vertical; padding-left: 24px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;entry&quot;,&quot;repository_id&quot;:571651712,&quot;originating_url&quot;:&quot;https://github.com/mperezbazan/math-magicians/blob/master/README.md&quot;,&quot;user_id&quot;:103154117}}" data-hydro-click-hmac="f9bb8339a79effcb8a5328c5677bbc1aca603f3436f4b2d2ae7cd7f1365e04f6" href="#-faq-"><g-emoji class="g-emoji" alias="question" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2753.png">❓</g-emoji> FAQ </a>
-          <a role="menuitem" class="filter-item SelectMenu-item ws-normal wb-break-word line-clamp-2 py-1 " style="-webkit-box-orient: vertical; padding-left: 24px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;entry&quot;,&quot;repository_id&quot;:571651712,&quot;originating_url&quot;:&quot;https://github.com/mperezbazan/math-magicians/blob/master/README.md&quot;,&quot;user_id&quot;:103154117}}" data-hydro-click-hmac="f9bb8339a79effcb8a5328c5677bbc1aca603f3436f4b2d2ae7cd7f1365e04f6" href="#-license-"><g-emoji class="g-emoji" alias="memo" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4dd.png">📝</g-emoji> License </a>
+      <div class="SelectMenu-list SelectMenu-list--borderless p-2" style="overscroll-behavior: contain;">
+          <a role="menuitem" class="filter-item SelectMenu-item ws-normal wb-break-word line-clamp-2 py-1 " style="-webkit-box-orient: vertical; padding-left: 24px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;entry&quot;,&quot;repository_id&quot;:571651712,&quot;originating_url&quot;:&quot;https://github.com/mperezbazan/math-magicians/blob/master/MIT.md&quot;,&quot;user_id&quot;:103154117}}" data-hydro-click-hmac="96276af7100105ca72392cf9bbc3f40073484d373228c8999ee0a85cb64be17e" href="#copyright-2021-your-name">Copyright 2021, [YOUR NAME]</a>
+          <a role="menuitem" class="filter-item SelectMenu-item ws-normal wb-break-word line-clamp-2 py-1 " style="-webkit-box-orient: vertical; padding-left: 72px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;entry&quot;,&quot;repository_id&quot;:571651712,&quot;originating_url&quot;:&quot;https://github.com/mperezbazan/math-magicians/blob/master/MIT.md&quot;,&quot;user_id&quot;:103154117}}" data-hydro-click-hmac="96276af7100105ca72392cf9bbc3f40073484d373228c8999ee0a85cb64be17e" href="#please-delete-this-line-and-the-next-one">Please delete this line and the next one</a>
+          <a role="menuitem" class="filter-item SelectMenu-item ws-normal wb-break-word line-clamp-2 py-1 " style="-webkit-box-orient: vertical; padding-left: 72px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;entry&quot;,&quot;repository_id&quot;:571651712,&quot;originating_url&quot;:&quot;https://github.com/mperezbazan/math-magicians/blob/master/MIT.md&quot;,&quot;user_id&quot;:103154117}}" data-hydro-click-hmac="96276af7100105ca72392cf9bbc3f40073484d373228c8999ee0a85cb64be17e" href="#app-type-can-be-a-webpagewebsite-a-web-app-a-software-and-so-on">APP TYPE can be a webpage/website, a web app, a software and so on</a>
       </div>
     </div>
   </details-menu>
@@ -2676,31 +2647,31 @@
 
   <div class="text-mono f6 flex-auto pr-3 flex-order-2 flex-md-order-1">
 
-      285 lines (183 sloc)
+      10 lines (6 sloc)
       <span class="file-info-divider"></span>
-    5.77 KB
+    1.15 KB
   </div>
 
   <div class="d-flex py-1 py-md-0 flex-auto flex-order-1 flex-md-order-2 flex-sm-grow-0 flex-justify-between hide-sm hide-md">
         <div class="BtnGroup">
-      <a href="/mperezbazan/math-magicians/blob/master/README.md?plain=1" data-permalink-href="/mperezbazan/math-magicians/blob/14a576a899884bcc6893e34d8767cc86f0839ed6/README.md?plain=1" aria-label="Display the source blob" data-view-component="true" class="source tooltipped tooltipped tooltipped-n  js-permalink-replaceable-link btn-sm btn BtnGroup-item">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-code">
+      <a href="/mperezbazan/math-magicians/blob/master/MIT.md?plain=1" data-permalink-href="/mperezbazan/math-magicians/blob/14a576a899884bcc6893e34d8767cc86f0839ed6/MIT.md?plain=1" aria-label="Display the source blob" data-view-component="true" class="source tooltipped tooltipped tooltipped-n  js-permalink-replaceable-link btn-sm btn BtnGroup-item">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-code">
     <path fill-rule="evenodd" d="M4.72 3.22a.75.75 0 011.06 1.06L2.06 8l3.72 3.72a.75.75 0 11-1.06 1.06L.47 8.53a.75.75 0 010-1.06l4.25-4.25zm6.56 0a.75.75 0 10-1.06 1.06L13.94 8l-3.72 3.72a.75.75 0 101.06 1.06l4.25-4.25a.75.75 0 000-1.06l-4.25-4.25z"></path>
 </svg>
-</a>      <a href="/mperezbazan/math-magicians/blob/master/README.md" data-permalink-href="/mperezbazan/math-magicians/blob/14a576a899884bcc6893e34d8767cc86f0839ed6/README.md" aria-label="Display the rendered blob" data-view-component="true" class="rendered tooltipped tooltipped tooltipped-n selected js-permalink-replaceable-link btn-sm btn BtnGroup-item">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-file">
+</a>      <a href="/mperezbazan/math-magicians/blob/master/MIT.md" data-permalink-href="/mperezbazan/math-magicians/blob/14a576a899884bcc6893e34d8767cc86f0839ed6/MIT.md" aria-label="Display the rendered blob" data-view-component="true" class="rendered tooltipped tooltipped tooltipped-n selected js-permalink-replaceable-link btn-sm btn BtnGroup-item">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-file">
     <path fill-rule="evenodd" d="M3.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h9.5a.25.25 0 00.25-.25V6h-2.75A1.75 1.75 0 019 4.25V1.5H3.75zm6.75.062V4.25c0 .138.112.25.25.25h2.688a.252.252 0 00-.011-.013l-2.914-2.914a.272.272 0 00-.013-.011zM2 1.75C2 .784 2.784 0 3.75 0h6.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16h-9.5A1.75 1.75 0 012 14.25V1.75z"></path>
 </svg>
 </a>  </div>
 
 
     <div class="BtnGroup">
-        <a data-permalink-href="/mperezbazan/math-magicians/raw/14a576a899884bcc6893e34d8767cc86f0839ed6/README.md" href="/mperezbazan/math-magicians/raw/master/README.md" id="raw-url" data-view-component="true" class="js-permalink-replaceable-link btn-sm btn BtnGroup-item">    Raw
-</a>          <a data-permalink-href="/mperezbazan/math-magicians/blame/14a576a899884bcc6893e34d8767cc86f0839ed6/README.md" href="/mperezbazan/math-magicians/blame/master/README.md" data-hotkey="b" data-view-component="true" class="js-update-url-with-hash js-permalink-replaceable-link btn-sm btn BtnGroup-item">    Blame
+        <a data-permalink-href="/mperezbazan/math-magicians/raw/14a576a899884bcc6893e34d8767cc86f0839ed6/MIT.md" href="/mperezbazan/math-magicians/raw/master/MIT.md" id="raw-url" data-view-component="true" class="js-permalink-replaceable-link btn-sm btn BtnGroup-item">    Raw
+</a>          <a data-permalink-href="/mperezbazan/math-magicians/blame/14a576a899884bcc6893e34d8767cc86f0839ed6/MIT.md" href="/mperezbazan/math-magicians/blame/master/MIT.md" data-hotkey="b" data-view-component="true" class="js-update-url-with-hash js-permalink-replaceable-link btn-sm btn BtnGroup-item">    Blame
 </a>    </div>
 
     <div class="d-flex">
         
 <div class="ml-1" data-test-selector="edit-dropdown-menu-component">
-  <form class="BtnGroup-parent js-update-url-with-hash " data-turbo="false" action="/mperezbazan/math-magicians/edit/master/README.md" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="paxFq8EEiYwVXmjo8ciQ0qLV_09iacXbg1fo9P7DSkFgcCk5mhiJ6afBUZvyk1a6eDt-RFKPXpgqKZ6yaB1hBQ" autocomplete="off" />
+  <form class="BtnGroup-parent js-update-url-with-hash " data-turbo="false" action="/mperezbazan/math-magicians/edit/master/MIT.md" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="mRM7JYhTjXGUq8iKvnBP5LCHXpeRzL-A4fX94NHjmM2YELAoqkZTBJSWRivDCHungkndIs1dAcI-UeBJWGpOgQ" autocomplete="off" />
       <button title="Edit this file" data-hotkey="e" data-disable-with="" data-test-selector="edit-icon-button" type="submit" data-view-component="true" class="btn-sm BtnGroup-item btn">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-pencil">
     <path fill-rule="evenodd" d="M11.013 1.427a1.75 1.75 0 012.474 0l1.086 1.086a1.75 1.75 0 010 2.474l-8.61 8.61c-.21.21-.47.364-.756.445l-3.251.93a.75.75 0 01-.927-.928l.929-3.25a1.75 1.75 0 01.445-.758l8.61-8.61zm1.414 1.06a.25.25 0 00-.354 0L10.811 3.75l1.439 1.44 1.263-1.263a.25.25 0 000-.354l-1.086-1.086zM11.189 6.25L9.75 4.81l-6.286 6.287a.25.25 0 00-.064.108l-.558 1.953 1.953-.558a.249.249 0 00.108-.064l6.286-6.286z"></path>
 </svg>
@@ -2710,7 +2681,7 @@
 </summary>    <div class="SelectMenu right-0">
       <div class="SelectMenu-modal width-full">
         <div class="SelectMenu-list SelectMenu-list--borderless py-2">
-          <form class="SelectMenu-item js-update-url-with-hash " data-turbo="false" action="/mperezbazan/math-magicians/edit/master/README.md" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="1UrA85wjmGngAPfHtV3YTh6EYLjptz3ovGvjpewaIGAQlqxhxz-YDFKfzrS2Bh4mxGrhs9lRpqsVFZXjesQLJA" autocomplete="off" />
+          <form class="SelectMenu-item js-update-url-with-hash " data-turbo="false" action="/mperezbazan/math-magicians/edit/master/MIT.md" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="rP03pcnNk8jxw_HOuNxsREmN0b8aIaKQwly7z4l3Zxat_ryo69hNvfH-f2_FpFgHe0NSCkawHNId-KZmAP6xWg" autocomplete="off" />
               <button title="Edit this file" data-test-selector="edit-text-button" type="submit" data-view-component="true" class="btn-invisible btn width-full d-flex flex-justify-between color-fg-default text-normal p-0">    <div class="mr-5">Edit this file</div>
               <div class="color-fg-muted">E</div>
 </button></form>
@@ -2718,7 +2689,7 @@
               <div class="mr-5 no-wrap">Open in github.dev</div>
               <div class="color-fg-muted">.</div>
 </a>
-            <a data-platforms="windows,mac" data-test-selector="github-desktop-link" aria-label="Open this file in GitHub Desktop" href="x-github-client://openRepo/https://github.com/mperezbazan/math-magicians?branch=master&amp;filepath=README.md" data-view-component="true" class="SelectMenu-item no-wrap js-remove-unless-platform width-full text-normal color-fg-default f5">
+            <a data-platforms="windows,mac" data-test-selector="github-desktop-link" aria-label="Open this file in GitHub Desktop" href="x-github-client://openRepo/https://github.com/mperezbazan/math-magicians?branch=master&amp;filepath=MIT.md" data-view-component="true" class="SelectMenu-item no-wrap js-remove-unless-platform width-full text-normal color-fg-default f5">
               Open in GitHub Desktop
 </a>        </div>
       </div>
@@ -2729,10 +2700,10 @@
 
         
 <div data-test-selector="remote-clipboard-copy">
-  <remote-clipboard-copy class="d-inline-block btn-octicon" style="height: 26px" data-src="/mperezbazan/math-magicians/raw/14a576a899884bcc6893e34d8767cc86f0839ed6/README.md" data-action="click:remote-clipboard-copy#remoteCopy">
+  <remote-clipboard-copy class="d-inline-block btn-octicon" style="height: 26px" data-src="/mperezbazan/math-magicians/raw/14a576a899884bcc6893e34d8767cc86f0839ed6/MIT.md" data-action="click:remote-clipboard-copy#remoteCopy">
   
 
-  <span data-target="remote-clipboard-copy.idle">      <span class="tooltipped tooltipped-nw cursor-pointer" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;COPY_RAW_CONTENTS_BUTTON&quot;,&quot;repository_id&quot;:571651712,&quot;originating_url&quot;:&quot;https://github.com/mperezbazan/math-magicians/blob/master/README.md&quot;,&quot;user_id&quot;:103154117}}" data-hydro-click-hmac="646e5948b3de0996105063285cacdff6e2779babd3431169f3c0ebb29030602a" aria-label="Copy raw contents">
+  <span data-target="remote-clipboard-copy.idle">      <span class="tooltipped tooltipped-nw cursor-pointer" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;COPY_RAW_CONTENTS_BUTTON&quot;,&quot;repository_id&quot;:571651712,&quot;originating_url&quot;:&quot;https://github.com/mperezbazan/math-magicians/blob/master/MIT.md&quot;,&quot;user_id&quot;:103154117}}" data-hydro-click-hmac="ad85a87bcc32a3041dc7734d618f022a9fec14443a0cfbe4f7e7115fb69a6947" aria-label="Copy raw contents">
         <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-copy">
     <path fill-rule="evenodd" d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 010 1.5h-1.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 00.25-.25v-1.5a.75.75 0 011.5 0v1.5A1.75 1.75 0 019.25 16h-7.5A1.75 1.75 0 010 14.25v-7.5z"></path><path fill-rule="evenodd" d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0114.25 11h-7.5A1.75 1.75 0 015 9.25v-7.5zm1.75-.25a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25h-7.5z"></path>
 </svg>
@@ -2757,7 +2728,7 @@
 </remote-clipboard-copy></div>
 
 
-          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form" data-turbo="false" action="/mperezbazan/math-magicians/delete/master/README.md" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="rWhTqxjnNYIBjjNM_PZwtaDVbbA4Plwpw73664eCyKEKfOlWRocQXIzw59fEEDlvg5nXlvR6m39Vw_jm0dUGdA" />
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form" data-turbo="false" action="/mperezbazan/math-magicians/delete/master/MIT.md" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="k-R1JKj4SHDWxNr5833FaFrZq3SWKVfe1xHoBjHGmtScVL9G-1pxancTpOc47yeEZGx8cyUn4g_Z8eijOU3mgQ" />
             <button class="btn-octicon btn-octicon-danger tooltipped tooltipped-nw" type="submit"
               aria-label="Delete this file" data-disable-with>
               <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-trash">
@@ -2785,20 +2756,20 @@
             <li>
                 <a class="dropdown-item tooltipped tooltipped-nw js-remove-unless-platform"
                    data-platforms="windows,mac"
-                   href="x-github-client://openRepo/https://github.com/mperezbazan/math-magicians?branch=master&amp;filepath=README.md">
+                   href="x-github-client://openRepo/https://github.com/mperezbazan/math-magicians?branch=master&amp;filepath=MIT.md">
                   Open with Desktop
                 </a>
             </li>
           <li>
-            <a class="dropdown-item" href="/mperezbazan/math-magicians/raw/master/README.md">
+            <a class="dropdown-item" href="/mperezbazan/math-magicians/raw/master/MIT.md">
               View raw
             </a>
           </li>
             <li>
-              <remote-clipboard-copy class="dropdown-item" data-src="/mperezbazan/math-magicians/raw/master/README.md" data-action="click:remote-clipboard-copy#remoteCopy">
+              <remote-clipboard-copy class="dropdown-item" data-src="/mperezbazan/math-magicians/raw/master/MIT.md" data-action="click:remote-clipboard-copy#remoteCopy">
   
 
-  <span data-target="remote-clipboard-copy.idle">                  <span class="cursor-pointer" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;COPY_RAW_CONTENTS_BUTTON&quot;,&quot;repository_id&quot;:571651712,&quot;originating_url&quot;:&quot;https://github.com/mperezbazan/math-magicians/blob/master/README.md&quot;,&quot;user_id&quot;:103154117}}" data-hydro-click-hmac="646e5948b3de0996105063285cacdff6e2779babd3431169f3c0ebb29030602a">
+  <span data-target="remote-clipboard-copy.idle">                  <span class="cursor-pointer" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;COPY_RAW_CONTENTS_BUTTON&quot;,&quot;repository_id&quot;:571651712,&quot;originating_url&quot;:&quot;https://github.com/mperezbazan/math-magicians/blob/master/MIT.md&quot;,&quot;user_id&quot;:103154117}}" data-hydro-click-hmac="ad85a87bcc32a3041dc7734d618f022a9fec14443a0cfbe4f7e7115fb69a6947">
                     Copy raw contents
 </span></span>
   <span data-target="remote-clipboard-copy.fetching" hidden="hidden">                  Copy raw contents
@@ -2821,20 +2792,20 @@
 </span>
 </remote-clipboard-copy>            </li>
             <li>
-              <a class="dropdown-item" href="/mperezbazan/math-magicians/blame/master/README.md">
+              <a class="dropdown-item" href="/mperezbazan/math-magicians/blame/master/MIT.md">
                 View blame
               </a>
             </li>
 
               <li class="dropdown-divider" role="none"></li>
               <li>
-                <a class="dropdown-item" href="/mperezbazan/math-magicians/edit/master/README.md">Edit file</a>
+                <a class="dropdown-item" href="/mperezbazan/math-magicians/edit/master/MIT.md">Edit file</a>
               </li>
                 <li>
                   <a class="dropdown-item js-github-dev-shortcut js-blob-dropdown-click" data-test-selector="small-screen-github-dev-link" data-dropdown-tracking="{&quot;type&quot;:&quot;blob_edit_dropdown.dev_link_click&quot;,&quot;context&quot;:{&quot;repository_id&quot;:571651712,&quot;actor_id&quot;:103154117,&quot;edit_enabled&quot;:true,&quot;small_screen&quot;:true}}" href="https://github.dev/">Open with github.dev</a>
                 </li>
               <li>
-                <a class="dropdown-item menu-item-danger" href="/mperezbazan/math-magicians/delete/master/README.md">Delete file</a>
+                <a class="dropdown-item menu-item-danger" href="/mperezbazan/math-magicians/delete/master/MIT.md">Delete file</a>
               </li>
         </ul>
       </details>
@@ -2843,192 +2814,12 @@
 
 
         <div id="readme" class="Box-body readme blob js-code-block-container p-5 p-xl-6 gist-border-0">
-    <article class="markdown-body entry-content container-lg" itemprop="text"><p dir="auto"><a name="user-content-readme-top"></a></p>
-
-<div align="center" dir="auto">
-  <a target="_blank" rel="noopener noreferrer" href="/mperezbazan/math-magicians/blob/master/murple_logo.png"><img src="/mperezbazan/math-magicians/raw/master/murple_logo.png" alt="logo" width="140" height="auto" style="max-width: 100%;"></a>
-  <br>
-  <h3 dir="auto"><a id="user-content-microverse-readme-template" class="anchor" aria-hidden="true" href="#microverse-readme-template"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a><b>Microverse README Template</b></h3>
-</div>
-
-<h1 dir="auto"><a id="user-content--table-of-contents" class="anchor" aria-hidden="true" href="#-table-of-contents"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a><g-emoji class="g-emoji" alias="green_book" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4d7.png">📗</g-emoji> Table of Contents</h1>
-<ul dir="auto">
-<li><a href="#about-project"><g-emoji class="g-emoji" alias="book" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4d6.png">📖</g-emoji> About the Project</a>
-<ul dir="auto">
-<li><a href="#built-with"><g-emoji class="g-emoji" alias="hammer_and_wrench" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f6e0.png">🛠</g-emoji> Built With</a>
-<ul dir="auto">
-<li><a href="#tech-stack">Tech Stack</a></li>
-<li><a href="#key-features">Key Features</a></li>
-</ul>
-</li>
-<li><a href="#live-demo"><g-emoji class="g-emoji" alias="rocket" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f680.png">🚀</g-emoji> Live Demo</a></li>
-</ul>
-</li>
-<li><a href="#getting-started"><g-emoji class="g-emoji" alias="computer" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png">💻</g-emoji> Getting Started</a>
-<ul dir="auto">
-<li><a href="#setup">Setup</a></li>
-<li><a href="#prerequisites">Prerequisites</a></li>
-<li><a href="#install">Install</a></li>
-<li><a href="#usage">Usage</a></li>
-<li><a href="#run-tests">Run tests</a></li>
-<li><a href="#triangular_flag_on_post-deployment">Deployment</a></li>
-</ul>
-</li>
-<li><a href="#authors"><g-emoji class="g-emoji" alias="busts_in_silhouette" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f465.png">👥</g-emoji> Authors</a></li>
-<li><a href="#future-features"><g-emoji class="g-emoji" alias="telescope" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f52d.png">🔭</g-emoji> Future Features</a></li>
-<li><a href="#contributing"><g-emoji class="g-emoji" alias="handshake" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f91d.png">🤝</g-emoji> Contributing</a></li>
-<li><a href="#support"><g-emoji class="g-emoji" alias="star" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2b50.png">⭐️</g-emoji> Show your support</a></li>
-<li><a href="#acknowledgements"><g-emoji class="g-emoji" alias="pray" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f64f.png">🙏</g-emoji> Acknowledgements</a></li>
-<li><a href="#faq"><g-emoji class="g-emoji" alias="question" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2753.png">❓</g-emoji> FAQ</a></li>
-<li><a href="#license"><g-emoji class="g-emoji" alias="memo" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4dd.png">📝</g-emoji> License</a></li>
-</ul>
-
-<h1 dir="auto"><a id="user-content--your_project_name-" class="anchor" aria-hidden="true" href="#-your_project_name-"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a><g-emoji class="g-emoji" alias="book" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4d6.png">📖</g-emoji> [your_project_name] <a name="user-content-about-project"></a></h1>
-<blockquote>
-<p dir="auto">Describe your project in 1 or 2 sentences.</p>
-</blockquote>
-<p dir="auto"><strong>[your_project__name]</strong> is a...</p>
-<h2 dir="auto"><a id="user-content--built-with-" class="anchor" aria-hidden="true" href="#-built-with-"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a><g-emoji class="g-emoji" alias="hammer_and_wrench" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f6e0.png">🛠</g-emoji> Built With <a name="user-content-built-with"></a></h2>
-<h3 dir="auto"><a id="user-content-tech-stack-" class="anchor" aria-hidden="true" href="#tech-stack-"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Tech Stack <a name="user-content-tech-stack"></a></h3>
-<blockquote>
-<p dir="auto">Describe the tech stack and include only the relevant sections that apply to your project.</p>
-</blockquote>
-<details>
-  <summary>Client</summary>
-  <ul dir="auto">
-    <li><a href="https://reactjs.org/" rel="nofollow">React.js</a></li>
-  </ul>
-</details>
-<details>
-  <summary>Server</summary>
-  <ul dir="auto">
-    <li><a href="https://expressjs.com/" rel="nofollow">Express.js</a></li>
-  </ul>
-</details>
-<details>
-<summary>Database</summary>
-  <ul dir="auto">
-    <li><a href="https://www.postgresql.org/" rel="nofollow">PostgreSQL</a></li>
-  </ul>
-</details>
-
-<h3 dir="auto"><a id="user-content-key-features-" class="anchor" aria-hidden="true" href="#key-features-"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Key Features <a name="user-content-key-features"></a></h3>
-<blockquote>
-<p dir="auto">Describe between 1-3 key features of the application.</p>
-</blockquote>
-<ul dir="auto">
-<li><strong>[key_feature_1]</strong></li>
-<li><strong>[key_feature_2]</strong></li>
-<li><strong>[key_feature_3]</strong></li>
-</ul>
-<p align="right" dir="auto">(<a href="#readme-top">back to top</a>)</p>
-
-<h2 dir="auto"><a id="user-content--live-demo-" class="anchor" aria-hidden="true" href="#-live-demo-"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a><g-emoji class="g-emoji" alias="rocket" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f680.png">🚀</g-emoji> Live Demo <a name="user-content-live-demo"></a></h2>
-<blockquote>
-<p dir="auto">Add a link to your deployed project.</p>
-</blockquote>
-<ul dir="auto">
-<li><a href="https://yourdeployedapplicationlink.com" rel="nofollow">Live Demo Link</a></li>
-</ul>
-<p align="right" dir="auto">(<a href="#readme-top">back to top</a>)</p>
-
-<h2 dir="auto"><a id="user-content--getting-started-" class="anchor" aria-hidden="true" href="#-getting-started-"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a><g-emoji class="g-emoji" alias="computer" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png">💻</g-emoji> Getting Started <a name="user-content-getting-started"></a></h2>
-<blockquote>
-<p dir="auto">Describe how a new developer could make use of your project.</p>
-</blockquote>
-<p dir="auto">To get a local copy up and running, follow these steps.</p>
-<h3 dir="auto"><a id="user-content-prerequisites" class="anchor" aria-hidden="true" href="#prerequisites"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Prerequisites</h3>
-<p dir="auto">In order to run this project you need:</p>
-
-<h3 dir="auto"><a id="user-content-setup" class="anchor" aria-hidden="true" href="#setup"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Setup</h3>
-<p dir="auto">Clone this repository to your desired folder:</p>
-
-<h3 dir="auto"><a id="user-content-install" class="anchor" aria-hidden="true" href="#install"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Install</h3>
-<p dir="auto">Install this project with:</p>
-
-<h3 dir="auto"><a id="user-content-usage" class="anchor" aria-hidden="true" href="#usage"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Usage</h3>
-<p dir="auto">To run the project, execute the following command:</p>
-
-<h3 dir="auto"><a id="user-content-run-tests" class="anchor" aria-hidden="true" href="#run-tests"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Run tests</h3>
-<p dir="auto">To run tests, run the following command:</p>
-
-<h3 dir="auto"><a id="user-content-deployment" class="anchor" aria-hidden="true" href="#deployment"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Deployment</h3>
-<p dir="auto">You can deploy this project using:</p>
-
-<p align="right" dir="auto">(<a href="#readme-top">back to top</a>)</p>
-
-<h2 dir="auto"><a id="user-content--authors-" class="anchor" aria-hidden="true" href="#-authors-"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a><g-emoji class="g-emoji" alias="busts_in_silhouette" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f465.png">👥</g-emoji> Authors <a name="user-content-authors"></a></h2>
-<blockquote>
-<p dir="auto">Mention all of the collaborators of this project.</p>
-</blockquote>
-<p dir="auto"><g-emoji class="g-emoji" alias="bust_in_silhouette" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f464.png">👤</g-emoji> <strong>Author1</strong></p>
-<ul dir="auto">
-<li>GitHub: <a href="https://github.com/githubhandle">@githubhandle</a></li>
-<li>Twitter: <a href="https://twitter.com/twitterhandle" rel="nofollow">@twitterhandle</a></li>
-<li>LinkedIn: <a href="https://linkedin.com/in/linkedinhandle" rel="nofollow">LinkedIn</a></li>
-</ul>
-<p dir="auto"><g-emoji class="g-emoji" alias="bust_in_silhouette" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f464.png">👤</g-emoji> <strong>Author2</strong></p>
-<ul dir="auto">
-<li>GitHub: <a href="https://github.com/githubhandle">@githubhandle</a></li>
-<li>Twitter: <a href="https://twitter.com/twitterhandle" rel="nofollow">@twitterhandle</a></li>
-<li>LinkedIn: <a href="https://linkedin.com/in/linkedinhandle" rel="nofollow">LinkedIn</a></li>
-</ul>
-<p align="right" dir="auto">(<a href="#readme-top">back to top</a>)</p>
-
-<h2 dir="auto"><a id="user-content--future-features-" class="anchor" aria-hidden="true" href="#-future-features-"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a><g-emoji class="g-emoji" alias="telescope" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f52d.png">🔭</g-emoji> Future Features <a name="user-content-future-features"></a></h2>
-<blockquote>
-<p dir="auto">Describe 1 - 3 features you will add to the project.</p>
-</blockquote>
-<ul class="contains-task-list">
-<li class="task-list-item"><input type="checkbox" id="" disabled="" class="task-list-item-checkbox"> <strong>[new_feature_1]</strong></li>
-<li class="task-list-item"><input type="checkbox" id="" disabled="" class="task-list-item-checkbox"> <strong>[new_feature_2]</strong></li>
-<li class="task-list-item"><input type="checkbox" id="" disabled="" class="task-list-item-checkbox"> <strong>[new_feature_3]</strong></li>
-</ul>
-<p align="right" dir="auto">(<a href="#readme-top">back to top</a>)</p>
-
-<h2 dir="auto"><a id="user-content--contributing-" class="anchor" aria-hidden="true" href="#-contributing-"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a><g-emoji class="g-emoji" alias="handshake" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f91d.png">🤝</g-emoji> Contributing <a name="user-content-contributing"></a></h2>
-<p dir="auto">Contributions, issues, and feature requests are welcome!</p>
-<p dir="auto">Feel free to check the <a href="/mperezbazan/math-magicians/issues">issues page</a>.</p>
-<p align="right" dir="auto">(<a href="#readme-top">back to top</a>)</p>
-
-<h2 dir="auto"><a id="user-content-️-show-your-support-" class="anchor" aria-hidden="true" href="#️-show-your-support-"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a><g-emoji class="g-emoji" alias="star" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2b50.png">⭐️</g-emoji> Show your support <a name="user-content-support"></a></h2>
-<blockquote>
-<p dir="auto">Write a message to encourage readers to support your project</p>
-</blockquote>
-<p dir="auto">If you like this project...</p>
-<p align="right" dir="auto">(<a href="#readme-top">back to top</a>)</p>
-
-<h2 dir="auto"><a id="user-content--acknowledgments-" class="anchor" aria-hidden="true" href="#-acknowledgments-"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a><g-emoji class="g-emoji" alias="pray" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f64f.png">🙏</g-emoji> Acknowledgments <a name="user-content-acknowledgements"></a></h2>
-<blockquote>
-<p dir="auto">Give credit to everyone who inspired your codebase.</p>
-</blockquote>
-<p dir="auto">I would like to thank...</p>
-<p align="right" dir="auto">(<a href="#readme-top">back to top</a>)</p>
-
-<h2 dir="auto"><a id="user-content--faq-" class="anchor" aria-hidden="true" href="#-faq-"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a><g-emoji class="g-emoji" alias="question" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2753.png">❓</g-emoji> FAQ <a name="user-content-faq"></a></h2>
-<blockquote>
-<p dir="auto">Add at least 2 questions new developers would ask when they decide to use your project.</p>
-</blockquote>
-<ul dir="auto">
-<li>
-<p dir="auto"><strong>[Question_1]</strong></p>
-<ul dir="auto">
-<li>[Answer_1]</li>
-</ul>
-</li>
-<li>
-<p dir="auto"><strong>[Question_2]</strong></p>
-<ul dir="auto">
-<li>[Answer_2]</li>
-</ul>
-</li>
-</ul>
-<p align="right" dir="auto">(<a href="#readme-top">back to top</a>)</p>
-
-<h2 dir="auto"><a id="user-content--license-" class="anchor" aria-hidden="true" href="#-license-"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a><g-emoji class="g-emoji" alias="memo" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4dd.png">📝</g-emoji> License <a name="user-content-license"></a></h2>
-<p dir="auto">This project is <a href="/mperezbazan/math-magicians/blob/master/LICENSE">MIT</a> licensed.</p>
-<p dir="auto"><em>NOTE: we recommend using the <a href="https://choosealicense.com/licenses/mit/" rel="nofollow">MIT license</a> - you can set it up quickly by <a href="https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository">using templates available on GitHub</a>. You can also use <a href="https://choosealicense.com/licenses/" rel="nofollow">any other license</a> if you wish.</em></p>
-<p align="right" dir="auto">(<a href="#readme-top">back to top</a>)</p>
+    <article class="markdown-body entry-content container-lg" itemprop="text"><h2 dir="auto"><a id="user-content-copyright-2021-your-name" class="anchor" aria-hidden="true" href="#copyright-2021-your-name"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Copyright 2021, [YOUR NAME]</h2>
+<h6 dir="auto"><a id="user-content-please-delete-this-line-and-the-next-one" class="anchor" aria-hidden="true" href="#please-delete-this-line-and-the-next-one"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Please delete this line and the next one</h6>
+<h6 dir="auto"><a id="user-content-app-type-can-be-a-webpagewebsite-a-web-app-a-software-and-so-on" class="anchor" aria-hidden="true" href="#app-type-can-be-a-webpagewebsite-a-web-app-a-software-and-so-on"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>APP TYPE can be a webpage/website, a web app, a software and so on</h6>
+<p dir="auto">Permission is hereby granted, free of charge, to any person obtaining a copy of this [APP TYPE] and associated documentation files, to deal in the [APP TYPE] without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the [APP TYPE], and to permit persons to whom the [APP TYPE] is furnished to do so, subject to the following conditions:</p>
+<p dir="auto">The above copyright notice and this permission notice shall be included in all copies or substantial portions of the [APP TYPE].</p>
+<p dir="auto">THE [APP TYPE] IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE [APP TYPE] OR THE USE OR OTHER DEALINGS IN THE [APP TYPE].</p>
 </article>
   </div>
 
