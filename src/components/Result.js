@@ -1,12 +1,10 @@
-/* eslint-disable react/prefer-stateless-function */
 import React from 'react';
-// eslint-disable-next-line import/no-extraneous-dependencies
 import PropTypes from 'prop-types';
 
 class Result extends React.Component {
-  // eslint-disable-next-line no-useless-constructor
   constructor(props) {
     super(props);
+    this.state = {};
   }
 
   render() {
