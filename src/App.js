@@ -1,7 +1,10 @@
+import Calculator from './components/Calculator';
+import './Style.css';
+
 function App() {
   return (
     <div className="App">
-      Temp
+      <Calculator />
     </div>
   );
 }
