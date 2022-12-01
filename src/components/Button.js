@@ -4,15 +4,20 @@ import PropTypes from 'prop-types';
 class Button extends React.Component {
   constructor(props) {
     super(props);
-    this.state = {};
+    this.handleClick = this.handleClick.bind(this);
+  }
+
+  handleClick(e) {
+    const { handleClick } = this.props;
+    handleClick(e.target.value);
   }
 
   render() {
     const { color, value, columns } = this.props;
     return (
-      <div className={`button ${color} col-${columns}`}>
+      <button type="button" className={`button ${color} col-${columns}`} onClick={this.handleClick} value={value}>
         {value}
-      </div>
+      </button>
     );
   }
 }
@@ -20,6 +25,7 @@ Button.propTypes = {
   color: PropTypes.string,
   value: PropTypes.string.isRequired,
   columns: PropTypes.number,
+  handleClick: PropTypes.func.isRequired,
 };
 Button.defaultProps = {
   color: 'grey',

@@ -17,7 +17,7 @@ class Result extends React.Component {
   }
 }
 Result.propTypes = {
-  value: PropTypes.number.isRequired,
+  value: PropTypes.string.isRequired,
   columns: PropTypes.number,
 };
 Result.defaultProps = {
