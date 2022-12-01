@@ -1,4 +1,4 @@
-import React from 'react';
+import React, { useState } from 'react';
 import calculate from '../logic/calculate';
 import Button from './Button';
 import Result from './Result';
@@ -24,60 +24,53 @@ const initialButtons = [
   { value: '.' },
   { value: '=', color: 'orange' },
 ];
-class Calculator extends React.Component {
-  constructor(props) {
-    super(props);
-    this.state = {
-      buttons: initialButtons,
-      total: '0',
-      next: null,
-      operation: null,
-      screen: '0',
-    };
-    this.handleClick = this.handleClick.bind(this);
-  }
 
-  handleClick(value) {
-    const newData = calculate(this.state, value);
-    this.setState(newData);
+const Calculator = () => {
+  const [data, setData] = useState({
+    total: '0',
+    next: null,
+    operation: null,
+  });
+  const [screen, setScreen] = useState('0');
+
+  const handleClick = (value) => {
+    const newData = calculate(data, value);
+    setData(newData);
     if ((newData.operation && newData.total) || newData.operation === undefined) {
-      this.setState({ screen: newData.next });
+      setScreen(newData.next);
     }
     if (newData.next === null) {
-      this.setState({ screen: '0' });
+      setScreen('0');
     }
     if (newData.total !== null && newData.next === null) {
-      this.setState({ screen: newData.total });
+      setScreen(newData.total);
     }
     if (!newData.total && !newData.next && !newData.operation) {
-      this.setState({ screen: '0', next: '0' });
+      setScreen('0');
+      setData({ ...data, next: '0' });
     }
     if (value === '+/-') {
       if (newData.total !== null) {
-        this.setState({ screen: newData.total });
+        setScreen(newData.total);
       } else {
-        this.setState({ screen: newData.next });
+        setScreen(newData.next);
       }
     }
-  }
-
-  render() {
-    const { buttons, screen } = this.state;
-    return (
-      <div className="calculator-container">
-        <Result value={screen} />
-        {buttons.map((button) => (
-          <Button
-            color={button.color}
-            value={button.value}
-            columns={button.columns}
-            key={button.value}
-            handleClick={this.handleClick}
-          />
-        ))}
-      </div>
-    );
-  }
-}
+  };
+  return (
+    <div className="calculator-container">
+      <Result value={screen} />
+      {initialButtons.map((button) => (
+        <Button
+          color={button.color}
+          value={button.value}
+          columns={button.columns}
+          key={button.value}
+          handleClick={handleClick}
+        />
+      ))}
+    </div>
+  );
+};
 
 export default Calculator;
