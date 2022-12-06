@@ -9,7 +9,7 @@
 
 body {
   background-color: #f5903e26;
-  height: 100vh;
+  height: 90vh;
   position: relative;
   z-index: 99;
 }
@@ -21,7 +21,7 @@ body::before {
   right: 0;
   z-index: 0;
   color: #8586931f;
-  font-size: 400px;
+  font-size: 300px;
   transform: rotate(12deg);
 }
 
@@ -152,7 +152,6 @@ nav li + li::before {
   padding: 56px;
   width: 80%;
   margin: 60px auto;
-  height: 100vh;
 }
 
 .quote-text {
