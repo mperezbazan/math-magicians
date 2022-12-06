@@ -7,6 +7,102 @@
   font-family: 'Lato', sans-serif;
 }
 
+body {
+  background-color: #f5903e26;
+  height: 90vh;
+  position: relative;
+  z-index: 99;
+}
+
+body::before {
+  content: '+-x÷';
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  z-index: 0;
+  color: #8586931f;
+  font-size: 300px;
+  transform: rotate(12deg);
+}
+
+.header-container {
+  background-color: #e5e5e5;
+  position: sticky;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 72px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding-inline: 24px;
+  box-shadow: rgba(0, 0, 0, 0.15) 1.95px 1.95px 2.6px;
+}
+
+.logo-text {
+  font-size: 48px;
+  font-weight: 800;
+}
+
+.logo-text:hover {
+  cursor: pointer;
+  color: #f5913e;
+}
+
+.nav-links-container {
+  list-style: none;
+  display: flex;
+  gap: 12px;
+}
+
+.nav-link-item > a {
+  text-decoration: none;
+  color: #858693;
+  font-size: 24px;
+}
+
+.nav-link-item > a:hover {
+  color: #656673;
+  border-bottom: 3px solid #f5913e;
+}
+
+.nav-link-item > a.active {
+  color: #656673;
+  border-bottom: 3px solid #f5913e;
+}
+
+nav li + li::before {
+  content: " | ";
+  font-size: 24px;
+  color: #858693;
+  padding: 0 10px;
+}
+
+.home-container {
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+  padding: 48px 24px;
+}
+
+.page-title {
+  margin-bottom: 12px;
+}
+
+.calculator-main-container {
+  display: flex;
+  padding: 48px 24px;
+  gap: 48px;
+}
+
+.calculator-content {
+  margin: 0 auto;
+  padding: 48px;
+  width: 60%;
+  border: 3px solid #656673;
+  box-shadow: rgba(0, 0, 0, 0.25) 0 54px 55px, rgba(0, 0, 0, 0.12) 0 -12px 30px, rgba(0, 0, 0, 0.12) 0 4px 6px, rgba(0, 0, 0, 0.17) 0 12px 13px, rgba(0, 0, 0, 0.09) 0 -3px 5px;
+}
+
 .calculator-container {
   width: 300px;
   display: flex;
@@ -49,4 +145,58 @@
 
 .dark-grey {
   background-color: #858693;
+}
+
+.quote-container {
+  display: flex;
+  padding: 56px;
+  width: 80%;
+  margin: 60px auto;
+}
+
+.quote-text {
+  font-size: 48px;
+}
+
+@media (width < 768px) {
+  body::before {
+    font-size: 150px;
+  }
+
+  .logo-text {
+    font-size: 16px;
+  }
+
+  .nav-link-item > a {
+    font-size: 16px;
+  }
+
+  nav li + li::before {
+    font-size: 0;
+    padding: 0 0;
+  }
+
+  .nav-links-container {
+    gap: 6px;
+  }
+
+  .calculator-main-container {
+    display: flex;
+    flex-direction: column;
+    padding: 12px;
+    gap: 12px;
+  }
+
+  .calculator-content {
+    width: 100%;
+    padding: 0;
+  }
+
+  .quote-container {
+    padding: 0;
+  }
+
+  .quote-text {
+    font-size: 24px;
+  }
 }
