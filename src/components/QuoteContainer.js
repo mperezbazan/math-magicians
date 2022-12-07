@@ -7,12 +7,12 @@ const QuoteContainer = () => {
   };
   return (
     <div className="quote-container">
-      <p className="quote-text">
+      <h1 className="quote-text">
         {`${data.title} -`}
         <span className="quote-author">
           {data.author}
         </span>
-      </p>
+      </h1>
     </div>
   );
 };
