@@ -1,0 +1,59 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Match Navbar Snapshot 1`] = `
+<header
+  className="header-container"
+>
+  <div
+    className="logo-container"
+  >
+    <p
+      className="logo-text"
+    >
+      Math Magicians
+    </p>
+  </div>
+  <nav
+    className="nav-container"
+  >
+    <ul
+      className="nav-links-container"
+    >
+      <li
+        className="nav-link-item"
+      >
+        <a
+          aria-current="page"
+          className="active"
+          href="/"
+          onClick={[Function]}
+        >
+          Home
+        </a>
+      </li>
+      <li
+        className="nav-link-item"
+      >
+        <a
+          className=""
+          href="/calculator"
+          onClick={[Function]}
+        >
+          Calculator
+        </a>
+      </li>
+      <li
+        className="nav-link-item"
+      >
+        <a
+          className=""
+          href="/quote"
+          onClick={[Function]}
+        >
+          Quote
+        </a>
+      </li>
+    </ul>
+  </nav>
+</header>
+`;
