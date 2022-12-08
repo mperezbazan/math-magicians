@@ -1,0 +1,9 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Match Result Snapshot 1`] = `
+<div
+  className="result dark-grey col-4"
+>
+  5
+</div>
+`;
